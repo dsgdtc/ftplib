@@ -1,0 +1,64 @@
+15 03:39:56 INFO    : 123  # log.py:9 root
+15 03:54:11 INFO    : I am __main__  # ftpclient.py:34 root
+15 04:16:03 INFO    : I am __main__  # ftpclient.py:37 root
+15 04:16:18 INFO    : I am __main__  # ftpclient.py:37 root
+15 04:17:09 INFO    : I am __main__  # ftpclient.py:32 root
+15 04:17:09 INFO    : Login ftpsched@172.30.25.84  # ftpclient.py:58 root
+15 04:17:30 INFO    : I am __main__  # ftpclient.py:32 root
+15 04:17:30 INFO    : Login ftpsched@172.30.25.84  # ftpclient.py:57 root
+15 04:18:30 INFO    : I am __main__  # ftpclient.py:32 root
+15 04:18:30 INFO    : Login ftpsched@172.30.25.84  # ftpclient.py:57 root
+15 04:18:38 INFO    : I am __main__  # ftpclient.py:32 root
+15 04:18:39 INFO    : Login ftpsched@172.30.25.84  # ftpclient.py:57 root
+15 04:19:42 INFO    : I am __main__  # ftpclient.py:32 root
+15 04:19:42 INFO    : Login ftpsched@172.30.25.84  # ftpclient.py:57 root
+15 04:19:42 INFO    : Can not open file: /root/script/ftplib/abc. excpet:[Errno 2] No such file or directory: '/root/script/ftplib/abc'  # ftpclient.py:75 root
+15 06:12:22 INFO    : I am __main__  # ftpclient.py:30 root
+15 06:12:22 INFO    : Login ftpsched@172.30.25.84  # ftpclient.py:55 root
+15 06:12:22 INFO    : Can not open file: /root/script/ftplib/abc. excpet:[Errno 2] No such file or directory: '/root/script/ftplib/abc'  # ftpclient.py:73 root
+15 06:18:52 INFO    : I am __main__  # ftpclient.py:30 root
+15 06:18:52 INFO    : Login ftpsched@172.30.25.84  # ftpclient.py:55 root
+15 06:18:52 INFO    : Can not open file: /root/script/ftplib/abc. excpet:[Errno 2] No such file or directory: '/root/script/ftplib/abc'  # ftpclient.py:75 root
+15 06:18:52 INFO    : successful get file bbb  # ftpclient.py:99 root
+15 06:18:56 INFO    : I am __main__  # ftpclient.py:30 root
+15 06:18:56 INFO    : Login ftpsched@172.30.25.84  # ftpclient.py:55 root
+15 06:18:56 INFO    : Can not open file: /root/script/ftplib/abc. excpet:[Errno 2] No such file or directory: '/root/script/ftplib/abc'  # ftpclient.py:75 root
+15 06:18:56 INFO    : successful get file bbb  # ftpclient.py:99 root
+15 06:19:21 INFO    : I am __main__  # ftpclient.py:30 root
+15 06:19:21 INFO    : Login ftpsched@172.30.25.84  # ftpclient.py:55 root
+15 06:19:21 INFO    : Can not open file: /root/script/ftplib/abc. excpet:[Errno 2] No such file or directory: '/root/script/ftplib/abc'  # ftpclient.py:75 root
+15 06:19:21 INFO    : successful get file bbb  # ftpclient.py:99 root
+15 06:22:00 INFO    : I am __main__  # ftpclient.py:30 root
+15 06:22:00 INFO    : Login ftpsched@172.30.25.84  # ftpclient.py:55 root
+15 06:22:00 INFO    : Can not open file: /root/script/ftplib/abc. excpet:[Errno 2] No such file or directory: '/root/script/ftplib/abc'  # ftpclient.py:75 root
+15 06:22:00 INFO    : successful get file bbb  # ftpclient.py:99 root
+15 06:23:20 INFO    : I am __main__  # ftpclient.py:30 root
+15 06:23:20 INFO    : Login ftpsched@172.30.25.84  # ftpclient.py:55 root
+15 06:23:20 INFO    : Can not open file: /root/script/ftplib/abc. excpet:[Errno 2] No such file or directory: '/root/script/ftplib/abc'  # ftpclient.py:75 root
+15 06:23:20 INFO    : successful get file bbb  # ftpclient.py:99 root
+15 06:23:20 INFO    : Logout   # ftpclient.py:66 root
+15 06:33:49 INFO    : I am __main__  # ftpclient.py:30 root
+15 06:33:49 INFO    : Login ftpsched@172.30.25.84  # ftpclient.py:55 root
+15 06:33:49 WARNING : Can not open file: /root/script/ftplib/abc. excpet:[Errno 2] No such file or directory: '/root/script/ftplib/abc'  # ftpclient.py:75 root
+15 06:33:49 INFO    : successful get file bbb  # ftpclient.py:99 root
+15 06:33:49 INFO    : Logout   # ftpclient.py:66 root
+15 07:55:41 INFO    : hello daemon  # hello_daemon.py:11 root
+15 07:55:43 INFO    : hello daemon  # hello_daemon.py:11 root
+15 07:55:45 INFO    : hello daemon  # hello_daemon.py:11 root
+15 07:55:47 INFO    : hello daemon  # hello_daemon.py:11 root
+15 07:55:49 INFO    : hello daemon  # hello_daemon.py:11 root
+15 07:55:51 INFO    : hello daemon  # hello_daemon.py:11 root
+15 07:55:53 INFO    : hello daemon  # hello_daemon.py:11 root
+15 07:55:55 INFO    : hello daemon  # hello_daemon.py:11 root
+15 07:55:57 INFO    : hello daemon  # hello_daemon.py:11 root
+15 07:55:59 INFO    : hello daemon  # hello_daemon.py:11 root
+15 07:56:01 INFO    : hello daemon  # hello_daemon.py:11 root
+15 07:56:03 INFO    : hello daemon  # hello_daemon.py:11 root
+15 07:56:05 INFO    : hello daemon  # hello_daemon.py:11 root
+15 07:58:25 INFO    : hello daemon  # hello_daemon.py:11 root
+15 07:58:27 INFO    : hello daemon  # hello_daemon.py:11 root
+15 07:58:29 INFO    : hello daemon  # hello_daemon.py:11 root
+15 07:58:31 INFO    : hello daemon  # hello_daemon.py:11 root
+15 07:58:33 INFO    : hello daemon  # hello_daemon.py:11 root
+15 07:58:35 INFO    : hello daemon  # hello_daemon.py:11 root
+15 07:58:37 INFO    : hello daemon  # hello_daemon.py:11 root
